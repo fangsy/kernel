@@ -27,6 +27,7 @@ on:
         options:
           - 5.10.y
           - 6.1.y
+          - 6.1.79
       kernel_auto:
         description: "Auto use the latest kernel"
         required: false
