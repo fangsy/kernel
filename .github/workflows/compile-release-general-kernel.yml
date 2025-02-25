@@ -84,7 +84,7 @@ on:
           - -summer-growing
           - -autumn-harvesting
           - -winter-storing
-          - -yourname
+          - -fangsy
       kernel_config:
         description: "Set the path of kernel .config"
         required: false
